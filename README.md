@@ -1,5 +1,30 @@
-# 💫 About Me:
- 👋 Cześć! Jestem inżynierem informatyki, który zamienia pomysły w działające aplikacje.<br><br>Specjalizuję się w tworzeniu systemów Fullstack, łącząc Javę z Angularem. W pracy nad kodem kieruję się prostą zasadą: ma być on czytelny, dobrze przemyślany i łatwy w rozwoju.<br><br>Nad czym obecnie pracuję?<br><br>    Pogłębiam wiedzę o mikroserwisach i ich zabezpieczaniu (Spring Security).<br><br>    Wdrażam Sztuczną Inteligencję do aplikacji (Spring AI + Python), aby stawały się bardziej interaktywne.<br><br>    Dbam o fundamenty – uwielbiam algorytmy i dążę do tego, by moje projekty były solidne "pod maską".<br><br>Posiadam certyfikat Java Advanced, co dało mi mocne podstawy w technologiach takich jak Docker, Spring Boot czy RabbitMQ. Cały czas się uczę, bo tworzenie oprogramowania to dla mnie nie tylko zawód, ale przede wszystkim pasja.
+## About Me
+
+💻 I am a **Software Engineer focused on building scalable full-stack applications** using **Java and Angular**. I enjoy designing clean, maintainable systems following **Clean Code principles and design patterns**.
+
+🎯 My goal is to grow as a **Fullstack Software Engineer (Java + Angular)** while continuously improving my knowledge of **algorithms, system design, and modern backend architectures**.
+
+🤖 I am also expanding my skills in **Artificial Intelligence integration**, working with **Python and Spring AI** to build applications that leverage modern AI capabilities.
+
+🎓 I hold an **Engineering degree in Computer Science** and a **"Java Advanced" certification**, where I gained practical experience with technologies such as:
+
+* Java
+* Spring Boot
+* Spring Security
+* Docker
+* Microservices
+* RabbitMQ / asynchronous communication
+
+🚀 I have experience building **full-stack applications** through both **academic and personal projects**, which I continue to develop and improve.
+
+📚 Currently, I am deepening my knowledge in:
+
+* **Microservices architecture**
+* **Application security (Spring Security)**
+* **AI integration in backend systems**
+
+I am passionate about **continuous learning, building modern software, and developing high-quality engineering skills.**
+
 
 
 ## 🌐 Socials:
